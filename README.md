@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [https://markmixstudios.com/](https://markmixstudios.com/)
 
-- 📫 How to reach me **markmixstudios@gmail.com**
+- 📫 How to reach me **bismark@markmixstudios.com**
 
-- 📄 Know about my experiences [https://markmixstudios.com/p/about.html](https://markmixstudios.com/p/about.html)
+- 📄 Know about my experiences [https://markmixstudios.com/about](https://markmixstudios.com/about)
 
 - ⚡ Fun fact **The sky is limitless 😂**
 
