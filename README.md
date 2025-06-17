@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bismark Agyapong 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Dev+Enthusiast;Founder+of+Markmix+Studios;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Web+Dev+Enthusiast;Founder+of+Markmix+Studios;Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 </p>
 
 ---
