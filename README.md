@@ -45,7 +45,7 @@ My mission is to **make digital tools simple, effective, and accessible** — em
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bismarkagyapong&show_icons=true&theme=tokyonight&hide_title=true" alt="Bismark GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onebismark&show_icons=true&theme=tokyonight&hide_title=true" alt="Bismark GitHub Stats" />
 </p>
 
 ---
