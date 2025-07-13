@@ -36,7 +36,6 @@ My mission is to **make digital tools simple, effective, and accessible** — em
   <a href="https://markmixstudios.com" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome" alt="website"/></a>
   <a href="https://instagram.com/1b.i.s.m.a.r.k_" target="_blank"><img src="https://img.shields.io/badge/@1b.i.s.m.a.r.k_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://twitter.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/@onebismark_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/></a>
-  <a href="https://instagram.com/markmix.studios" target="_blank"><img src="https://img.shields.io/badge/@markmix.studios-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Markmix Studios IG"/></a>
   <a href="mailto:bismark@markmixstudios.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://markmixstudios.com/p/contact.html" target="_blank"><img src="https://img.shields.io/badge/Contact_Form-Get_in_Touch-green?style=for-the-badge&logo=minutemailer" alt="Contact Form"/></a>
 </p>
