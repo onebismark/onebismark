@@ -70,6 +70,8 @@ My mission is to **make digital tools simple, effective, and accessible** — em
 - 📚 [Blog Posts Migration to GitHub Pages (In Progress)]  
   _Migrating Blogger content to a clean, fast-loading GitHub Pages blog._
 
+[![𝑳𝒐𝒓𝒅 𝑩𝒊𝒔𝒎𝒂𝒓𝒌 ♔🦅 profile views](https://u8views.com/api/v1/github/profiles/135444998/views/day-week-month-total-count.svg)](https://u8views.com/github/onebismark)
+
 ---
 
 > _“Let’s build tools that impact lives, not just screens.”_
