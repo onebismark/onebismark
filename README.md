@@ -3,6 +3,7 @@
 <div id="badges">
  <a href="https://github.com/onebismark?tab=followers"><img src="https://img.shields.io/github/followers/onebismark?label=Followers&style=social" alt="GitHub Badge"></a>
 </div> 
+<a href="https://u8views.com/github/onebismark"><img src="https://u8views.com/api/v1/github/profiles/135444998/views/day-week-month-total-count.svg"></a>
 <h2 align="center">Hi there, I'm Bismark 👋</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Web+Dev+Enthusiast;Founder+of+Markmix+Studios;Turning+Ideas+Into+Digital+Reality;Linux+Lover;FOSS+Enthusiast" alt="Typing SVG" />
