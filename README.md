@@ -2,7 +2,6 @@
 <img src="https://raw.githubusercontent.com/onebismark/files/refs/heads/main/eggtyun-beomgyu-txt-kpop.gif" alt="animated gif of person typing on a computer" width="300"/>
 <div id="badges">
  <a href="https://github.com/onebismark?tab=followers"><img src="https://img.shields.io/github/followers/onebismark?label=Followers&style=social" alt="GitHub Badge"></a>
-[![𝑳𝒐𝒓𝒅 𝑩𝒊𝒔𝒎𝒂𝒓𝒌 ♔🦅 profile views](https://u8views.com/api/v1/github/profiles/135444998/views/day-week-month-total-count.svg)](https://u8views.com/github/onebismark)
 </div> 
 <h2 align="center">Hi there, I'm Bismark 👋</h2>
 <p align="center">
