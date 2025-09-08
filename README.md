@@ -1,5 +1,9 @@
-<h1 align="center">Hi there, I'm Bismark Agyapong 👋</h1>
-
+<div id="header" align="center">
+<img src="https://raw.githubusercontent.com/onebismark/files/refs/heads/main/eggtyun-beomgyu-txt-kpop.gif" alt="animated gif of person typing on a computer" width="300"/>
+<div id="badges">
+ <a href="https://github.com/onebismark?tab=followers"><img src="https://img.shields.io/github/followers/onebismark?label=Followers&style=social" alt="GitHub Badge"></a>
+</div> 
+<h2 align="center">Hi there, I'm Bismark 👋</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Web+Dev+Enthusiast;Founder+of+Markmix+Studios;Turning+Ideas+Into+Digital+Reality;Linux+Lover;FOSS+Enthusiast" alt="Typing SVG" />
 </p>
