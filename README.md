@@ -32,11 +32,11 @@ My mission is to **make digital tools simple, effective, and accessible** — em
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://markmixstudios.com" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome" alt="website"/></a>
+  <a href="https://www.markmixstudios.com" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome" alt="website"/></a>
   <a href="https://instagram.com/onebismark" target="_blank"><img src="https://img.shields.io/badge/@onebismark-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://twitter.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/@onebismark_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/></a>
   <a href="mailto:bismark@markmixstudios.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://markmixstudios.com/p/contact.html" target="_blank"><img src="https://img.shields.io/badge/Contact_Form-Get_in_Touch-green?style=for-the-badge&logo=minutemailer" alt="Contact Form"/></a>
+  <a href="https://www.markmixstudios.com/contact" target="_blank"><img src="https://img.shields.io/badge/Contact_Form-Get_in_Touch-green?style=for-the-badge&logo=minutemailer" alt="Contact Form"/></a>
 </p>
 
 ---
@@ -54,22 +54,22 @@ My mission is to **make digital tools simple, effective, and accessible** — em
 - 🏠 [Homepage](https://start.markmixstudios.com)  
   _A central dashboard to access all services and tools from Markmix Studios._
 
-- 🔄 [File Converter](https://markmix-studios.github.io/file-converter)  
-  _Easily convert files between formats in the browser with a clean UI._
+- 🔄 [File Converter](https://www.markmixstudios.com/tools/file-coverter)  
+  _Easily create files in different formats in the browser with a clean UI._
 
-- 🗜️ [ZIP Extractor](https://markmix-studios.github.io/zip-extractor)  
+- 🗜️ [ZIP Extractor](https://www.markmixstudios.com/tools/zip-extractor)  
   _Extract ZIP file contents directly in your browser — no software needed._
 
-- 🎧 [Markmix Age Calculator](https://markmix-studios.github.io/markmix-age-calculator/)  
+- 🎧 [Markmix Age Calculator](https://www.markmixstudios.com/tools/age-calculator)  
   _Calculate age precisely from a birthdate with a beautiful interface._
 
-- 🔊 [Online Radio Platform](https://markmixstudios.com/p/radio.html)  
-  _Stream gospel music and inspirational content from Markmix Radio._
+- 🔊 [Online Radio Platform](https://radio.markmixstudios.com)  
+  _Stream different tastes of music and good content from Markmix Radio._
 
 - 📚 [Blog Posts Migration to GitHub Pages (In Progress)]  
   _Migrating Blogger content to a clean, fast-loading GitHub Pages blog._
 
-[![𝑳𝒐𝒓𝒅 𝑩𝒊𝒔𝒎𝒂𝒓𝒌 ♔🦅 profile views](https://u8views.com/api/v1/github/profiles/135444998/views/day-week-month-total-count.svg)](https://u8views.com/github/onebismark)
+[![Lord Bismark profile views](https://u8views.com/api/v1/github/profiles/135444998/views/day-week-month-total-count.svg)](https://u8views.com/github/onebismark)
 
 ---
 
