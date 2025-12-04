@@ -54,7 +54,7 @@ My mission is to **make digital tools simple, effective, and accessible** — em
 - 🏠 [Homepage](https://start.markmixstudios.com)  
   _A central dashboard to access all services and tools from Markmix Studios._
 
-- 🔄 [File Converter](https://www.markmixstudios.com/tools/file-coverter)  
+- 🔄 [File Converter](https://www.markmixstudios.com/tools/file-converter)  
   _Easily create files in different formats in the browser with a clean UI._
 
 - 🗜️ [ZIP Extractor](https://www.markmixstudios.com/tools/zip-extractor)  
