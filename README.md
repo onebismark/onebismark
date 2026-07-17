@@ -11,10 +11,11 @@
 
 ### About Me
 
-I am a web developer and the founder of Markmix Studios Limited based in Kumasi, Ghana. Linux is my primary development environment, which I use alongside Windows to build, test, and host client-side web applications.
+I am a web developer and the founder of Markmix Studios Limited based in Kumasi, Ghana. I use Linux as my primary development environment alongside Windows to build and deploy versatile web applications, custom digital utilities, and interactive platforms.
 
-* **What I do:** Build highly responsive, offline-friendly utilities that run directly in the browser.
-* **My workflow:** Focus on local-first development, clean code structure, and fast deployment pipelines.
+* **What I do:** Build responsive web applications and clean digital tools, balancing modern cloud platforms with lightweight local architectures.
+* **My workflow:** Prioritize clean codebase structure, functional user experiences, and automated deployment pipelines.
+* **Tech Interests:** Passionate about open-source technologies, decentralized web ecosystems (like the AT Protocol), and optimizing developer environments.
 
 ---
 
@@ -59,14 +60,22 @@ I am a web developer and the founder of Markmix Studios Limited based in Kumasi,
 
 ---
 
-### Tools I've Built
+### Featured Projects & Utilities
 
-These are browser-based tools I designed and deployed under Markmix Studios:
+These are some of the web applications and digital tools I have designed and deployed under Markmix Studios:
 
-* **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)** – Compress and extract ZIP archives locally in the browser. Your data never leaves your machine.
-* **[QR Code Generator](https://www.markmixstudios.com/tools/qr-generator)** – Instantly generate high-quality vector QR codes offline.
-* **[Age Calculator](https://www.markmixstudios.com/tools/age-calculator)** – A clean, straightforward interface for precise date calculations.
-* **[File Converter](https://www.markmixstudios.com/tools/file-converter)** – Convert files securely within the browser window.
+* **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)** – High-performance tools to compress and extract ZIP archives directly on the client side.
+* **[QR Code Generator](https://www.markmixstudios.com/tools/qr-generator)** – A fast utility to generate clean vector QR codes instantly.
+* **[Age Calculator](https://www.markmixstudios.com/tools/age-calculator)** – A straightforward, highly accurate application for date and milestone calculations.
+* **[File Converter](https://www.markmixstudios.com/tools/file-converter)** – Secure, browser-based asset conversion utility.
+
+---
+
+### Environment & Setup
+
+* **Operating Systems:** Fedora Linux (Primary) + Windows 10
+* **Hosting & CI/CD:** GitHub Pages, Vercel, and Netlify
+* **Development Focus:** Practical web solutions, offline compatibility, and decentralized networking profiles
 
 ---
 
@@ -85,6 +94,7 @@ These are browser-based tools I designed and deployed under Markmix Studios:
   <a href="https://www.markmixstudios.com" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome" alt="website"/></a>
   <a href="https://instagram.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/Instagram-onebismark__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://twitter.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/X-onebismark__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://bsky.app/profile/bismark.blacksky.app" target="_blank"><img src="https://img.shields.io/badge/Bluesky-bismark-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
   <a href="mailto:bismarkagyapong2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.markmixstudios.com/contact" target="_blank"><img src="https://img.shields.io/badge/Contact_Form-Get_in_Touch-green?style=for-the-badge&logo=minutemailer" alt="Contact Form"/></a>
 </p>
