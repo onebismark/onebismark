@@ -11,11 +11,11 @@
 
 ### 🌍 About Me
 
-I am a **Web Developer**, digital solutions creator, and founder of **Markmix Studios Limited** based in Kumasi, Ghana. I build lightweight, local-first web utilities and streaming setups aimed at making digital spaces simpler, fast, and accessible to everyone.
+I am a **Web Developer**, digital solutions creator, and the founder of **Markmix Studios Limited** based in Kumasi, Ghana. I focus on building highly responsive, local-first browser utilities and offline-friendly digital solutions designed to work flawlessly without heavy server overhead.
 
-* 🚀 **My Workspace:** Managing codebases locally, deploying to high-speed open-source environments.
-* 🛠️ **The Goal:** Build production-ready web tools that run beautifully in-browser without demanding excessive system overhead or complex configurations.
-* 🎧 **Digital Media:** Deploying custom audio streaming pipelines and online platform services under my brand.
+* 🚀 **My Philosophy:** Creating lightweight, fast web applications that respect user privacy and run completely in-browser.
+* 🛠️ **The Process:** Managing optimized source repositories, local workflows, and fast visual designs.
+* 🌐 **The Mission:** Making essential web and desktop tools simple, accessible, and direct.
 
 ---
 
@@ -23,49 +23,49 @@ I am a **Web Developer**, digital solutions creator, and founder of **Markmix St
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br />HTML5
+      <br /><strong>HTML5</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br />CSS3
+      <br /><strong>CSS3</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
+      <br /><strong>JavaScript</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br />GitHub Pages
+      <br /><strong>GitHub Pages</strong>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br />Linux
+      <br /><strong>Linux</strong>
     </td>
   </tr>
 </table>
 
 ---
 
-### ✨ Featured Projects & Utilities
-*Here are some of the custom-built web utilities and services deployed under my ecosystem:*
+### ✨ Featured Custom Utilities
+*A collection of direct, high-performance, client-side tools deployed under the Markmix ecosystem:*
 
 * 🗜️ **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)**  
-  _Fully browser-side ZIP compression and extraction utility—built to bypass bloated local installations and cloud dependencies._
+  _Fully browser-side ZIP compilation and extraction utilities—built to completely bypass bloated desktop installations and privacy-invasive cloud conversions._
 
 * 🏷️ **[In-Browser QR-Code Generator](https://www.markmixstudios.com/tools/qr-generator)**  
-  _A blazing-fast client-side vector QR code generator for instantly sharing text and URLs offline._
+  _A lightweight, zero-dependency client-side QR generator that outputs vector formats instantly for offline URL and data distribution._
 
 * 🧮 **[Markmix Age Calculator](https://www.markmixstudios.com/tools/age-calculator)**  
-  _A precise, highly responsive interface to calculate exact dates and age parameters locally._
+  _An accurate and beautiful localized interface engineered to calculate precise dates, age metrics, and milestones with zero data leaving the browser._
 
-* 🔊 **[Markmix Radio Platform](https://radio.markmixstudios.com)**  
-  _Custom-configured digital audio streaming client optimized for delivering raw audio without download bottlenecks._
+* 🔄 **[File Converter](https://www.markmixstudios.com/tools/file-converter)**  
+  _A clean browser-based converter to safely structure, format, and export assets on the fly._
 
 ---
 
-### 📊 Platform Metrics
+### 📊 Repository Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=onebismark&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
