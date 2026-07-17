@@ -10,7 +10,7 @@
 I’m a web development enthusiast and digital solutions creator. I founded **Markmix Studios Limited** to help individuals and businesses transform their ideas into practical, impactful online experiences.
 
 At Markmix Studios, I offer:
-- 🌐 Website Creation  
+- 🌐 Website Creation 
 - 📻 Online Radio Development  
 - 📲 Social Media Management
 
@@ -33,9 +33,9 @@ My mission is to **make digital tools simple, effective, and accessible** — em
 
 <p align="left">
   <a href="https://www.markmixstudios.com" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome" alt="website"/></a>
-  <a href="https://instagram.com/onebismark" target="_blank"><img src="https://img.shields.io/badge/@onebismark-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://instagram.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/@onebismark__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://twitter.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/@onebismark_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/></a>
-  <a href="mailto:bismark@markmixstudios.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:bismarkagyapong2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.markmixstudios.com/contact" target="_blank"><img src="https://img.shields.io/badge/Contact_Form-Get_in_Touch-green?style=for-the-badge&logo=minutemailer" alt="Contact Form"/></a>
 </p>
 
@@ -43,9 +43,11 @@ My mission is to **make digital tools simple, effective, and accessible** — em
 
 ### 💯 Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=onebismark&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=onebismark&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=onebismark&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=onebismark&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=onebismark&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=onebismark&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
@@ -69,7 +71,11 @@ My mission is to **make digital tools simple, effective, and accessible** — em
 - 📚 [Blog Posts Migration to GitHub Pages (In Progress)]  
   _Migrating Blogger content to a clean, fast-loading GitHub Pages blog._
 
-[![Lord Bismark profile views](https://u8views.com/api/v1/github/profiles/135444998/views/day-week-month-total-count.svg)](https://u8views.com/github/onebismark)
+<p align="left" style="margin-top: 20px;">
+  <a href="https://u8views.com/github/onebismark">
+    <img src="https://u8views.com/api/v1/github/profiles/135444998/views/day-week-month-total-count.svg" alt="Lord Bismark profile views" />
+  </a>
+</p>
 
 ---
 
