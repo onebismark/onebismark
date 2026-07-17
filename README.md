@@ -9,17 +9,17 @@
 
 ---
 
-### 🌍 About Me
+###  About Me
 
-I am a **Web Developer**, digital solutions creator, and the founder of **Markmix Studios Limited** based in Kumasi, Ghana. I focus on building highly responsive, local-first browser utilities and offline-friendly digital solutions designed to work flawlessly without heavy server overhead.
+I am a **Web Developer**, digital solutions creator, and the founder of **Markmix Studios Limited** based in Kumasi, Ghana. I focus on building highly responsive, local-first browser utilities and offline-friendly digital solutions designed to work flawlessly with or without server.
 
-* 🚀 **My Philosophy:** Creating lightweight, fast web applications that respect user privacy and run completely in-browser.
+*  **My Philosophy:** Creating lightweight, fast web applications that respect user privacy and run completely in-browser.
 * 🛠️ **The Process:** Managing optimized source repositories, local workflows, and fast visual designs.
-* 🌐 **The Mission:** Making essential web and desktop tools simple, accessible, and direct.
+*  **The Mission:** Making essential web and desktop tools simple, accessible, and direct.
 
 ---
 
-### 🚀 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <table>
   <tr>
@@ -48,24 +48,24 @@ I am a **Web Developer**, digital solutions creator, and the founder of **Markmi
 
 ---
 
-### ✨ Featured Custom Utilities
+###  Featured Custom Utilities
 *A collection of direct, high-performance, client-side tools deployed under the Markmix ecosystem:*
 
-* 🗜️ **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)**  
+*  **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)**  
   _Fully browser-side ZIP compilation and extraction utilities—built to completely bypass bloated desktop installations and privacy-invasive cloud conversions._
 
-* 🏷️ **[In-Browser QR-Code Generator](https://www.markmixstudios.com/tools/qr-generator)**  
+*  **[In-Browser QR-Code Generator](https://www.markmixstudios.com/tools/qr-generator)**  
   _A lightweight, zero-dependency client-side QR generator that outputs vector formats instantly for offline URL and data distribution._
 
-* 🧮 **[Markmix Age Calculator](https://www.markmixstudios.com/tools/age-calculator)**  
+*  **[Markmix Age Calculator](https://www.markmixstudios.com/tools/age-calculator)**  
   _An accurate and beautiful localized interface engineered to calculate precise dates, age metrics, and milestones with zero data leaving the browser._
 
-* 🔄 **[File Converter](https://www.markmixstudios.com/tools/file-converter)**  
+*  **[File Converter](https://www.markmixstudios.com/tools/file-converter)**  
   _A clean browser-based converter to safely structure, format, and export assets on the fly._
 
 ---
 
-### 📊 Repository Statistics
+### Repository Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=onebismark&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
@@ -74,7 +74,7 @@ I am a **Web Developer**, digital solutions creator, and the founder of **Markmi
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://www.markmixstudios.com" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome" alt="website"/></a>
