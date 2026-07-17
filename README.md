@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bismark 👋</h1>
+<h1 align="center">Hi, I'm Bismark</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Web+Developer+%26+Creator;Founder+of+Markmix+Studios;Turning+Ideas+Into+Digital+Reality;Linux+Lover;FOSS+Enthusiast" alt="Typing SVG" />
 </p>
@@ -11,10 +11,10 @@
 
 ### About Me
 
-I’m a web developer and the founder of **Markmix Studios Limited** based in Kumasi, Ghana. I focus on building fast, lightweight web utilities and offline-friendly digital tools that run entirely in the browser without relying on heavy backend servers. 
+I am a web developer and the founder of Markmix Studios Limited based in Kumasi, Ghana. Linux is my primary development environment, which I use alongside Windows to build, test, and host client-side web applications.
 
-* 💻 **What I do:** Build functional client-side apps, customize systems, and keep workflows simple.
-* ⚙️ **My approach:** Keep things fast, lightweight, and local-first.
+* **What I do:** Build highly responsive, offline-friendly utilities that run directly in the browser.
+* **My workflow:** Focus on local-first development, clean code structure, and fast deployment pipelines.
 
 ---
 
@@ -35,12 +35,12 @@ I’m a web developer and the founder of **Markmix Studios Limited** based in Ku
       <br />JavaScript
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-      <br />Windows
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br />Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      <br />Windows
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Pages" />
@@ -60,12 +60,13 @@ I’m a web developer and the founder of **Markmix Studios Limited** based in Ku
 ---
 
 ### Tools I've Built
-*These are a few browser-based utilities I developed under Markmix Studios:*
 
-* 🗜️ **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)** – Compress and extract ZIP archives locally in the browser. No data gets sent to a server.
-* 🏷️ **[QR Code Generator](https://www.markmixstudios.com/tools/qr-generator)** – A clean tool to quickly generate high-quality vector QR codes offline.
-* 🧮 **[Age Calculator](https://www.markmixstudios.com/tools/age-calculator)** – Simple, fast, and precise date calculation tool.
-* 🔄 **[File Converter](https://www.markmixstudios.com/tools/file-converter)** – Convert files instantly within the browser window.
+These are browser-based tools I designed and deployed under Markmix Studios:
+
+* **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)** – Compress and extract ZIP archives locally in the browser. Your data never leaves your machine.
+* **[QR Code Generator](https://www.markmixstudios.com/tools/qr-generator)** – Instantly generate high-quality vector QR codes offline.
+* **[Age Calculator](https://www.markmixstudios.com/tools/age-calculator)** – A clean, straightforward interface for precise date calculations.
+* **[File Converter](https://www.markmixstudios.com/tools/file-converter)** – Convert files securely within the browser window.
 
 ---
 
@@ -82,8 +83,8 @@ I’m a web developer and the founder of **Markmix Studios Limited** based in Ku
 
 <p align="left">
   <a href="https://www.markmixstudios.com" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome" alt="website"/></a>
-  <a href="https://instagram.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/@onebismark__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/@onebismark_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/></a>
+  <a href="https://instagram.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/Instagram-onebismark__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://twitter.com/onebismark_" target="_blank"><img src="https://img.shields.io/badge/X-onebismark__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:bismarkagyapong2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.markmixstudios.com/contact" target="_blank"><img src="https://img.shields.io/badge/Contact_Form-Get_in_Touch-green?style=for-the-badge&logo=minutemailer" alt="Contact Form"/></a>
 </p>
