@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/github/followers/onebismark?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/onebismark"><img src="https://img.shields.io/github/followers/onebismark?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
