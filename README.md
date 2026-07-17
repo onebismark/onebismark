@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Bismark 👋</h1>
+<h1 align="center">Hi, I'm Bismark 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Web+Developer+%26+Creator;Founder+of+Markmix+Studios;Turning+Ideas+Into+Digital+Reality;Linux+Lover;FOSS+Enthusiast" alt="Typing SVG" />
 </p>
@@ -9,63 +9,67 @@
 
 ---
 
-###  About Me
+### About Me
 
-I am a **Web Developer**, digital solutions creator, and the founder of **Markmix Studios Limited** based in Kumasi, Ghana. I focus on building highly responsive, local-first browser utilities and offline-friendly digital solutions designed to work flawlessly with or without server.
+I’m a web developer and the founder of **Markmix Studios Limited** based in Kumasi, Ghana. I focus on building fast, lightweight web utilities and offline-friendly digital tools that run entirely in the browser without relying on heavy backend servers. 
 
-*  **My Philosophy:** Creating lightweight, fast web applications that respect user privacy and run completely in-browser.
-* 🛠️ **The Process:** Managing optimized source repositories, local workflows, and fast visual designs.
-*  **The Mission:** Making essential web and desktop tools simple, accessible, and direct.
+* 💻 **What I do:** Build functional client-side apps, customize systems, and keep workflows simple.
+* ⚙️ **My approach:** Keep things fast, lightweight, and local-first.
 
 ---
 
-###  Tech Stack & Tools
+### Tech Stack & Tools
 
 <table>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br /><strong>HTML5</strong>
+      <br />HTML5
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br /><strong>CSS3</strong>
+      <br />CSS3
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br /><strong>JavaScript</strong>
+      <br />JavaScript
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br /><strong>GitHub Pages</strong>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      <br />Windows
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br /><strong>Linux</strong>
+      <br />Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Pages" />
+      <br />GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br />Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+      <br />Netlify
     </td>
   </tr>
 </table>
 
 ---
 
-###  Featured Custom Utilities
-*A collection of direct, high-performance, client-side tools deployed under the Markmix ecosystem:*
+### Tools I've Built
+*These are a few browser-based utilities I developed under Markmix Studios:*
 
-*  **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)**  
-  _Fully browser-side ZIP compilation and extraction utilities—built to completely bypass bloated desktop installations and privacy-invasive cloud conversions._
-
-*  **[In-Browser QR-Code Generator](https://www.markmixstudios.com/tools/qr-generator)**  
-  _A lightweight, zero-dependency client-side QR generator that outputs vector formats instantly for offline URL and data distribution._
-
-*  **[Markmix Age Calculator](https://www.markmixstudios.com/tools/age-calculator)**  
-  _An accurate and beautiful localized interface engineered to calculate precise dates, age metrics, and milestones with zero data leaving the browser._
-
-*  **[File Converter](https://www.markmixstudios.com/tools/file-converter)**  
-  _A clean browser-based converter to safely structure, format, and export assets on the fly._
+* 🗜️ **[ZIP Creator & Extractor](https://www.markmixstudios.com/tools/zip-extractor)** – Compress and extract ZIP archives locally in the browser. No data gets sent to a server.
+* 🏷️ **[QR Code Generator](https://www.markmixstudios.com/tools/qr-generator)** – A clean tool to quickly generate high-quality vector QR codes offline.
+* 🧮 **[Age Calculator](https://www.markmixstudios.com/tools/age-calculator)** – Simple, fast, and precise date calculation tool.
+* 🔄 **[File Converter](https://www.markmixstudios.com/tools/file-converter)** – Convert files instantly within the browser window.
 
 ---
 
-### Repository Statistics
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=onebismark&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
@@ -74,7 +78,7 @@ I am a **Web Developer**, digital solutions creator, and the founder of **Markmi
 
 ---
 
-### Let's Connect
+### Get In Touch
 
 <p align="left">
   <a href="https://www.markmixstudios.com" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-orange?style=for-the-badge&logo=google-chrome" alt="website"/></a>
@@ -89,9 +93,5 @@ I am a **Web Developer**, digital solutions creator, and the founder of **Markmi
     <img src="https://u8views.com/api/v1/github/profiles/135444998/views/day-week-month-total-count.svg" alt="Lord Bismark profile views" />
   </a>
 </p>
-
----
-
-> _“Let’s build tools that impact lives, not just screens.”_
 
 ---
